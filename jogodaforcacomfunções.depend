@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639621571 source:c:\users\jeff\desktop\programação\tipo c\jogodaforcacomfunções\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
